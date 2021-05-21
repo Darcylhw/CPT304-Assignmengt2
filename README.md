@@ -1,2 +1,24 @@
-# CPT304-Assignmengt2
-1. As a website user, I would like to see a list of public holidays for a selected country. 2. As a website user, I would like to select the area (probably state, province, or city) I am residing as well as a public holiday from the list so that I can see: - a) The weather information for the selected public holiday in my area. b) The available short-term accommodation rental information for the selected day in my area.
+# vue-frame
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
